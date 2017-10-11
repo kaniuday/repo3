@@ -1,0 +1,5 @@
+project
+done
+bye
+yes
+ok
