@@ -1,8 +1,4 @@
 hey
 hello
 welcome
-<<<<<<< HEAD
-acha
-=======
-bye
->>>>>>> b4
+shut up
